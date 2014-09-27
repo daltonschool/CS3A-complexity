@@ -11,7 +11,11 @@ git config --global user.name "YOUR NAME"
 git config --global user.email "YOUR EMAIL ADDRESS"
 ```
 
-To download the files to your local machine see [fetching a remote](https://help.github.com/articles/fetching-a-remote).
+To download the files to your local machine 
+```
+git clone https://github.com/user/repo.git
+```
+see [fetching a remote](https://help.github.com/articles/fetching-a-remote) for more information.
 
 ## Tracking and Syncing changes
 

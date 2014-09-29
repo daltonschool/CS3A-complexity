@@ -1,13 +1,12 @@
-Write the name of each sort in the column that describes its average behavior. In each case n represents the number of data items to be sorted.
+Put an X in the column that describes its behavior. In each case n represents the number of data items to be sorted.
 
 
-               | O(n) | O(n lg n) | O(n2)
+               | O(n) | O(n lg n) | O(n^2)
 ---------------|------|-----------|--------
-Bucket sort    |      |           |
 Bubble Sort    |      |           |
 Insertion Sort |      |           |
 Merge Sort     |      |           |
-Quick Sort     |      |           |
+Bucket sort    |      |           |
 
 
 1.  Which of the sorts listed above are guaranteed to be very fast ( O(n) ) on lists that are already sorted?

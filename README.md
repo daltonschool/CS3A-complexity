@@ -64,6 +64,8 @@ A larger list of [git commands can be found here](https://training.github.com/ki
 
 Due 10/3 at 3:15pm.  No resubmissions.
 
+There are a number of issues that you can attempt to resolve for this assignment.  Each correctly resolved and closed issue is worth five points.  We will give you 70 points as a curve.  The maximum score is 95.
+
 This assignment is to be completed on your own WITHOUT the use of internet resources.  You MAY use [the notes from class](http://daltonschool.github.io/CS3A/complexity/)
 
 You must push your commits to github.  No other submissions are required.  You *may* check your account at github.com to make sure your files are online.

@@ -22,37 +22,11 @@ see [fetching a remote](https://help.github.com/articles/fetching-a-remote) for 
 As you make changes you will need to track them with commits.  You will also need to sync your changes to github.
 
 ```
-$ git status
+$ git commit -a -m "descriptive message, fixes #1"
 ```
-Lists all new or modified files to be commited
-```
-$ git add [file]
-```
-adds the listed file to the staging area
-```
-$ git reset [file]
-```
-Unstages the file, but preserve its contents
-```
-$ git diff
-```
-Shows file differences not yet staged
-```
-$ git diff --staged
-```
-Shows file differences between staging and the last file version
-```
-$ git commit -m "[descriptive message]"
-```
+
 Records file snapshots permanently in version history. The -a option adds all tracked files to the commit.  If you include "fixes #2" in the message, github will link to and close issue #2.
-```
-$ git stash
-```
-Temporarily stores all modified tracked files
-```
-$ git pull
-```
-fetches any changes from github and merges them with your code
+
 ```
 $ git push
 ``` 

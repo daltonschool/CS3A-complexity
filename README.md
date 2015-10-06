@@ -62,7 +62,7 @@ A larger list of [git commands can be found here](https://training.github.com/ki
 
 ##Assignment
 
-Due 10/3 at 3:15pm.  No resubmissions.
+Due 10/14 at 3:15pm.  No resubmissions.  We will be covering new material starting 10/14.
 
 There are a number of issues that you can attempt to resolve for this assignment.  Each correctly resolved and closed issue is worth five points.  We will give you 70 points as a curve.  The maximum score is 95.
 

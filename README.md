@@ -68,4 +68,6 @@ There are a number of issues that you can attempt to resolve for this assignment
 
 This assignment is to be completed on your own WITHOUT the use of internet resources.  You MAY use [the notes from class](http://daltonschool.github.io/CS3A/complexity/)
 
+You may work in teams of up to two people, if you like.  If you work together, it us your responsibility to make sure that both people understand all of your answers.  I will check this, and if it is not true both students will lose the points from their assignment.  
+
 You must push your commits to github.  No other submissions are required.  You *may* check your account at github.com to make sure your files are online.

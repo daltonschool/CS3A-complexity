@@ -3,13 +3,7 @@ CSA-complexity
 
 This is the algorithic complexity problem set.
 
-##Getting Started
-
-configure your local git instance
-```
-git config --global user.name "YOUR NAME"
-git config --global user.email "YOUR EMAIL ADDRESS"
-```
+## Getting Started
 
 To download the files to your local machine 
 ```
@@ -62,11 +56,11 @@ A larger list of [git commands can be found here](https://training.github.com/ki
 
 ##Assignment
 
-Due 10/14 at 3:15pm.  No resubmissions.  We will be covering new material starting 10/14.
+Due 10/30.
 
 There are a number of issues that you can attempt to resolve for this assignment.  Each correctly resolved and closed issue is worth five points.  We will give you 70 points as a curve.  The maximum score is 95.
 
-This assignment is to be completed on your own WITHOUT the use of internet resources.  You MAY use [the notes from class](http://daltonschool.github.io/CS3A/complexity/)
+This assignment is to be completed on your own WITHOUT the use of internet resources.  You MAY use the notes from class.
 
 You may work in teams of up to two people, if you like.  If you work together, it us your responsibility to make sure that both people understand all of your answers.  I will check this, and if it is not true both students will lose the points from their assignment.  
 

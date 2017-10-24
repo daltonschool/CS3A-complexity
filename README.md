@@ -54,7 +54,7 @@ sends all of your commits to github
 
 A larger list of [git commands can be found here](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
 
-##Assignment
+## Assignment
 
 Due 10/30.
 
